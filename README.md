@@ -1,1 +1,1 @@
-# IPS-IIT-Training
+# IPS-IITA-Training
